@@ -1,0 +1,252 @@
+[
+  {
+    "evaluation_question_id": 1,
+    "question": "مرکز استان چهارمحال و بختیاری کدام شهر است؟",
+    "expected_province_for_answer": "چهارمحال و بختیاری"
+  },
+  {
+    "evaluation_question_id": 2,
+    "question": "قله زردکوه بختیاری در استان چهارمحال و بختیاری چند متر ارتفاع دارد؟",
+    "expected_province_for_answer": "چهارمحال و بختیاری"
+  },
+  {
+    "evaluation_question_id": 3,
+    "question": "تالاب چغاخور در کدام استان ایران قرار دارد؟",
+    "expected_province_for_answer": "چهارمحال و بختیاری"
+  },
+  {
+    "evaluation_question_id": 4,
+    "question": "حدود چند درصد مساحت استان چهارمحال و بختیاری کوهستانی است؟",
+    "expected_province_for_answer": "چهارمحال و بختیاری"
+  },
+  {
+    "evaluation_question_id": 5,
+    "question": "معدن غنی بوکسیت در استان چهارمحال و بختیاری در کدام منطقه قرار دارد؟",
+    "expected_province_for_answer": "چهارمحال و بختیاری"
+  },
+  {
+    "evaluation_question_id": 6,
+    "question": "کدام یک از جاذبه‌های گردشگری استان چهارمحال و بختیاری، دژی از دوران اتابکان لر است؟",
+    "expected_province_for_answer": "چهارمحال و بختیاری"
+  },
+  {
+    "evaluation_question_id": 7,
+    "question": "آبشار آتشگاه در کدام شهرستان استان چهارمحال و بختیاری واقع شده است؟",
+    "expected_province_for_answer": "چهارمحال و بختیاری"
+  },
+  {
+    "evaluation_question_id": 8,
+    "question": "کدام یک از مشکلات اقلیمی در استان چهارمحال و بختیاری منجر به تخریب ۴۰ میلیون تن خاک در سال می‌شود؟",
+    "expected_province_for_answer": "چهارمحال و بختیاری"
+  },
+  {
+    "evaluation_question_id": 9,
+    "question": "مرکز استان بوشهر کدام شهر است؟",
+    "expected_province_for_answer": "بوشهر"
+  },
+  {
+    "evaluation_question_id": 10,
+    "question": "گنبد نمکی جاشک در کدام استان ایران قرار دارد؟",
+    "expected_province_for_answer": "بوشهر"
+  },
+  {
+    "evaluation_question_id": 11,
+    "question": "اقلیم استان بوشهر عمدتاً چگونه توصیف شده است؟",
+    "expected_province_for_answer": "بوشهر"
+  },
+  {
+    "evaluation_question_id": 12,
+    "question": "میدان گازی پارس جنوبی در کدام استان ایران واقع شده است؟",
+    "expected_province_for_answer": "بوشهر"
+  },
+  {
+    "evaluation_question_id": 13,
+    "question": "مسجد جامع بوشهر قدمت آن به کدام قرن می‌رسد؟",
+    "expected_province_for_answer": "بوشهر"
+  },
+  {
+    "evaluation_question_id": 14,
+    "question": "بندر سیراف در کدام دوره تاریخی مرکز تجارت جنوب ایران بود؟",
+    "expected_province_for_answer": "بوشهر"
+  },
+  {
+    "evaluation_question_id": 15,
+    "question": "پارک ملی نایبند در استان بوشهر چه نوع منطقه حفاظت‌شده‌ای است؟",
+    "expected_province_for_answer": "بوشهر"
+  },
+  {
+    "evaluation_question_id": 16,
+    "question": "مرکز استان آذربایجان شرقی کدام شهر است؟",
+    "expected_province_for_answer": "آذربایجان شرقی"
+  },
+  {
+    "evaluation_question_id": 17,
+    "question": "کدام رودخانه مرز شمالی استان آذربایجان غربی را تشکیل می‌دهد؟",
+    "expected_province_for_answer": "آذربایجان غربی"
+  },
+  {
+    "evaluation_question_id": 18,
+    "question": "بزرگترین دریاچه داخلی ایران که بخش قابل توجهی از آن در استان آذربایجان شرقی قرار دارد، چه نام دارد؟",
+    "expected_province_for_answer": "آذربایجان شرقی"
+  },
+  {
+    "evaluation_question_id": 19,
+    "question": "معدن کانسنگ طلا در کدام استان ایران قرار دارد؟",
+    "expected_province_for_answer": "آذربایجان شرقی"
+  },
+  {
+    "evaluation_question_id": 20,
+    "question": "بازار بزرگ تبریز به چه عنوانی در میراث جهانی یونسکو ثبت شده است؟",
+    "expected_province_for_answer": "آذربایجان شرقی"
+  },
+  {
+    "evaluation_question_id": 21,
+    "question": "روستای صخره‌ای کندوان در کدام شهرستان استان آذربایجان شرقی واقع شده است؟",
+    "expected_province_for_answer": "آذربایجان شرقی"
+  },
+  {
+    "evaluation_question_id": 22,
+    "question": "قلعه بابک در کدام منطقه حفاظت‌شده و ذخیره‌گاه زیست‌کره یونسکو در استان آذربایجان شرقی قرار دارد؟",
+    "expected_province_for_answer": "آذربایجان شرقی"
+  },
+  {
+    "evaluation_question_id": 23,
+    "question": "کوه‌های رنگی آلاداغ‌لار در نزدیکی کدام شهرهای استان آذربایجان شرقی قرار دارند؟",
+    "expected_province_for_answer": "آذربایجان شرقی"
+  },
+  {
+    "evaluation_question_id": 24,
+    "question": "موزه آذربایجان در تبریز، پس از موزه ملی ایران، چندمین موزه باستان‌شناسی ایران است؟",
+    "expected_province_for_answer": "آذربایجان شرقی"
+  },
+  {
+    "evaluation_question_id": 25,
+    "question": "قلعه ضحاک در کدام شهرستان استان آذربایجان شرقی واقع شده است؟",
+    "expected_province_for_answer": "آذربایجان شرقی"
+  },
+  {
+    "evaluation_question_id": 26,
+    "question": "مرکز استان اردبیل کدام شهر است؟",
+    "expected_province_for_answer": "اردبیل"
+  },
+  {
+    "evaluation_question_id": 27,
+    "question": "سومین قله بلند ایران و نماد اصلی استان اردبیل چه نام دارد؟",
+    "expected_province_for_answer": "اردبیل"
+  },
+  {
+    "evaluation_question_id": 28,
+    "question": "تنها دریاچه طبیعی داخل شهری در ایران که در شهر اردبیل قرار دارد، چه نام دارد؟",
+    "expected_province_for_answer": "اردبیل"
+  },
+  {
+    "evaluation_question_id": 29,
+    "question": "کدام چشمه آبگرم در استان اردبیل به عنوان پرآب‌ترین چشمه آبگرم ایران شناخته می‌شود؟",
+    "expected_province_for_answer": "اردبیل"
+  },
+  {
+    "evaluation_question_id": 30,
+    "question": "مرتفع‌ترین پل معلق خاورمیانه در کدام شهر استان اردبیل قرار دارد؟",
+    "expected_province_for_answer": "اردبیل"
+  },
+  {
+    "evaluation_question_id": 31,
+    "question": "محوطه باستانی شهر یئری در مشگین‌شهر، با سنگ‌افراشت‌های اسرارآمیز، قدمتی از چند هزار سال پیش از میلاد دارد؟",
+    "expected_province_for_answer": "اردبیل"
+  },
+  {
+    "evaluation_question_id": 32,
+    "question": "پیست اسکی آلوارس در دامنه‌های کدام کوه استان اردبیل قرار دارد؟",
+    "expected_province_for_answer": "اردبیل"
+  },
+  {
+    "evaluation_question_id": 33,
+    "question": "مرکز استان فارس کدام شهر است؟",
+    "expected_province_for_answer": "فارس"
+  },
+  {
+    "evaluation_question_id": 34,
+    "question": "تخت جمشید به دستور کدام پادشاه هخامنشی بنا شد؟",
+    "expected_province_for_answer": "فارس"
+  },
+  {
+    "evaluation_question_id": 35,
+    "question": "آرامگاه کوروش کبیر در کدام مجموعه باستانی استان فارس قرار دارد؟",
+    "expected_province_for_answer": "فارس"
+  },
+  {
+    "evaluation_question_id": 36,
+    "question": "بازار وکیل در شیراز در دوران کدام سلسله بنا شد؟",
+    "expected_province_for_answer": "فارس"
+  },
+  {
+    "evaluation_question_id": 37,
+    "question": "آبشار مارگون در کدام شهرستان استان فارس واقع شده است؟",
+    "expected_province_for_answer": "فارس"
+  },
+  {
+    "evaluation_question_id": 38,
+    "question": "میدان‌های نفتی آغار-دالان و سروستان در کدام استان ایران قرار دارند؟",
+    "expected_province_for_answer": "فارس"
+  },
+  {
+    "evaluation_question_id": 39,
+    "question": "مرکز استان گیلان کدام شهر است؟",
+    "expected_province_for_answer": "گیلان"
+  },
+  {
+    "evaluation_question_id": 40,
+    "question": "کدام آبشار استان گیلان به عنوان بلندترین آبشار ایران شناخته می‌شود؟",
+    "expected_province_for_answer": "گیلان"
+  },
+  {
+    "evaluation_question_id": 41,
+    "question": "قلعه رودخان در کدام شهرستان استان گیلان واقع شده است؟",
+    "expected_province_for_answer": "گیلان"
+  },
+  {
+    "evaluation_question_id": 42,
+    "question": "کدام پارک ملی در استان گیلان به عنوان نخستین پارک ملی خشکی-دریایی ثبت‌شده در ایران شناخته می‌شود؟",
+    "expected_province_for_answer": "گیلان"
+  },
+  {
+    "evaluation_question_id": 43,
+    "question": "تالاب بین‌المللی امیر کلایه در استان گیلان، از معدود تالاب‌های آب شیرین نزدیک به دریا است و ذخیره‌گاه کدام ماهی است؟",
+    "expected_province_for_answer": "گیلان"
+  },
+  {
+    "evaluation_question_id": 44,
+    "question": "خانه میرزا کوچک خان جنگلی در کدام شهر استان گیلان قرار دارد؟",
+    "expected_province_for_answer": "گیلان"
+  },
+  {
+    "evaluation_question_id": 45,
+    "question": "مرکز استان هرمزگان کدام شهر است؟",
+    "expected_province_for_answer": "هرمزگان"
+  },
+  {
+    "evaluation_question_id": 46,
+    "question": "کوه گنو با چند متر ارتفاع، از بلندترین نقاط استان هرمزگان است؟",
+    "expected_province_for_answer": "هرمزگان"
+  },
+  {
+    "evaluation_question_id": 47,
+    "question": "قنات زیرزمینی کاریز با قدمت ۲۵۰۰ ساله در کدام جزیره استان هرمزگان قرار دارد؟",
+    "expected_province_for_answer": "هرمزگان"
+  },
+  {
+    "evaluation_question_id": 48,
+    "question": "قلعه پرتغالی‌ها در جزیره هرمز توسط چه کسی ساخته شد؟",
+    "expected_province_for_answer": "هرمزگان"
+  },
+  {
+    "evaluation_question_id": 49,
+    "question": "مرکز استان اصفهان کدام شهر است؟",
+    "expected_province_for_answer": "اصفهان"
+  },
+  {
+    "evaluation_question_id": 50,
+    "question": "میدان نقش جهان در اصفهان توسط کدام پادشاه صفوی و در چه سالی ساخته شد؟",
+    "expected_province_for_answer": "اصفهان"
+  }
+]
